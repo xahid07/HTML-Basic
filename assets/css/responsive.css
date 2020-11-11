@@ -1,0 +1,10 @@
+@media screen and (max-width:768px){
+    .col-sm-3:not(:last-child){
+        border-right: none;
+        border-bottom: 1px solid #a1a1a135;
+        
+    }
+    .col-sm-3{
+        padding: 16px !important;
+    }
+}
