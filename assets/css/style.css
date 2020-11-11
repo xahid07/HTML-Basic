@@ -88,7 +88,6 @@ footer{
     background-color: #14213d;
     color:  #FCA311;
     align-items: center;
-    box-shadow: 0 -5px 35px #14213d90;
 }
 
 .col-sm-3:not(:last-child){
