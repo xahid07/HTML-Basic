@@ -81,7 +81,7 @@ ul>li{
 
 ul>li::before{
     content: "☑";
-    color: #a36500;
+    color: #ffffff;
     padding-right: 10px;
 }
 
