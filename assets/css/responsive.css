@@ -9,7 +9,7 @@
     }
 }
 
-@media screen and (max-width:454px){
+@media screen and (max-width:455px){
     .justify-content-between{
         justify-content: center !important;
     }
