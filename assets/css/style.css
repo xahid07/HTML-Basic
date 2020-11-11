@@ -29,7 +29,6 @@ a:hover{
 .top-right .row div{
     border-right: 1px solid #a1a1a1;
 }
-
 .banner{
     background-color: #14213d;
     position: relative;
@@ -39,7 +38,7 @@ a:hover{
 .tag{
     position: absolute;
     left: 50vw;
-    top: -15px;
+    top: -16px;
     transform: translateX(-50%);
     /* //box-shadow: 0px 10px 10px black; */
     color: #FCA311;
