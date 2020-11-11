@@ -39,7 +39,7 @@ a:hover{
 .tag{
     position: absolute;
     left: 50vw;
-    top: -22px;
+    top: -15px;
     transform: translateX(-50%);
     /* //box-shadow: 0px 10px 10px black; */
     color: #FCA311;
